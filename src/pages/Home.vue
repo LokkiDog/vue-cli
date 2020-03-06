@@ -1,10 +1,5 @@
-<template>
-  <div class="wrapper-content wrapper-content--fixed">
-    <section>
-      <div class="container"> 
-        <h1>HOME Page</h1>  
-      </div>
-    </section>
-  </div>
-</template>
- 
+<template lang="pug">
+  .wrapper-content.wrapper-content--fixed
+    section
+      .container
+        h1 HOME Page
